@@ -2,7 +2,13 @@
 Melakukan Pembelajaran untuk Melakukan Automation Menggunakan Selenium Python
 
 # Requirements
+## For Selenium Python
 - Python 3.10.11
+- Vs Code
+
+## For Selenium Java
+- Java 17
+- Intellej IDE
 
 # Pre Request
 1. Install ChromeDriver
